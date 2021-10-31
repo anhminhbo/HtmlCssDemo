@@ -1,0 +1,53 @@
+h3 {
+  color: red;
+
+  font-size: 20px;
+
+  /* font-weight: 100; */
+  font-style: normal;
+
+  font-family: "Verdana";
+
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+
+html {
+  margin: 0;
+  background-size: cover;
+  background: url("https://img4.thuthuatphanmem.vn/uploads/2020/07/27/nhung-cau-noi-de-thuong-hay-nhat_041541200.jpg");
+}
+img {
+  width: 100px;
+  position: relative;
+  left: 493px;
+}
+
+#question {
+  padding: 40px 0 0 0;
+}
+
+#hobby {
+  width: 150px;
+  font-size: 20px;
+  color: blueviolet;
+  font-weight: 900;
+}
+
+form {
+  text-align: center;
+}
+
+input {
+  width: 300px;
+  border: 1px solid blue;
+}
+
+#information {
+  height: 150px;
+}
+
+#info {
+  padding: 6px 0 40px 0;
+}
